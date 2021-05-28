@@ -1,0 +1,26 @@
+
+Technology Information :
+========================
+IDE: STS(for Backend), VS Code(for Frontend)
+Project Type: SpringBoot Maven Restful Web Project with embedded tomcat (for Backend),Angular (for Frontend)
+DataBase: MySql
+Cloud: AWS(RDS,S3,EC2)
+Automation Testing : Selenium and TestNG
+
+
+FoodBoox Backend Application port No : 8080
+
+Mysql Connection Properties Location in Project :
+=================================================
+/FoodBoxBackEnd/src/main/resources/application.properties
+
+
+FoodBox Source Code Github Link:
+=========================
+
+https://github.com/venkatmanikanta516/FoodBoxFinalRepo.git
+
+
+Deployed Food Box URL :
+===========================
+ http://foodboxfrontend.s3-website.us-east-2.amazonaws.com/home   (Currently application Down)
